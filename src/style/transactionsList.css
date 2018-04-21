@@ -1,0 +1,35 @@
+.transactionHeader {
+    background: rgba(235,244,225,0.9);
+    border-top: 2px solid lightgray;
+    height: 1.5rem;
+    font-weight: 700;
+}
+
+.transactionsList {
+    display: inline-block;
+    height: 24.5rem;
+    border-top: 1px solid lightgray;
+    overflow: auto;
+}
+
+.transaction {
+    height: 3rem;
+    color: rgb(45,33,46);
+}
+
+.transaction img {
+    height: 30%;
+    width: 30%;
+}
+
+span {
+    font-size: 10px;
+}
+
+.transaction p {
+    margin: 0.75rem 0rem;
+}
+
+.header {
+    border-right: 1px solid lightblue;
+}

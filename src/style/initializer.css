@@ -1,0 +1,16 @@
+.createWalleField {
+    height: 41rem;
+    text-align: center;
+}
+
+.createWalleField button {
+    height: 10%;
+    width: 70%;
+}
+
+.createWalleField img {
+    display: inline-block;
+    margin: 5rem auto;
+    height: 65%;
+    width: auto;
+}

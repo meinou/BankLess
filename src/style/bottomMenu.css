@@ -1,0 +1,14 @@
+.bottomMenu {
+    height: 5rem;
+    border-top: 1px solid red;
+}
+
+.bottomButton {
+    height: 100%;
+    border-right: 0.02rem solid grey;
+}
+
+.bottomButton p {
+    margin: 1.5rem auto;
+
+}

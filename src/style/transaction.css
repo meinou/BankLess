@@ -1,0 +1,34 @@
+.loading {
+    height: 41rem;
+    text-align: center;
+}
+
+.loading svg {
+    display: inline-block;
+}
+
+.loaded {
+    height: 41rem;
+}
+
+.transHeader {
+    margin: 5rem 1rem 2rem;
+    max-width: 100%;
+}
+
+.transHeader h4 {
+    color: white;
+    background: lightgreen;
+    border-radius: 5px;
+    padding: 0.75rem 0;
+    height: 5rem;
+    margin: 0;
+}
+
+.transBody {
+    padding: 0rem 1rem;
+    max-width: 90%;
+    margin: 0 1rem;
+
+
+}

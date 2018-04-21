@@ -1,0 +1,11 @@
+.graphs {
+    display: inline-block;
+    height: 15rem;
+    max-width: 68%;
+}
+
+img {
+    height: 90%;
+    width: 85%;
+    margin: 0.75rem auto; 
+}

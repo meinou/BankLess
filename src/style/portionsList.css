@@ -1,0 +1,21 @@
+.portionList {
+    display: inline-block;
+    border-left: 1px solid lightgray;
+    height: 15rem;
+    max-width: 32%;
+    overflow: auto;
+    text-align: center;
+}
+
+.portion {
+    margin: 0.5rem 0.1rem;
+}
+
+.btn-light p {
+    margin: 0.15rem;
+    font-size: 12px;
+}
+
+.btn-light hr {
+    margin: 0;
+}

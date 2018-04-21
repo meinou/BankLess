@@ -1,0 +1,26 @@
+.Balance {
+    border-bottom: 1px solid red;
+    max-width: 100%;
+    margin: 0 0 0.1rem;
+}
+.lineBalance {
+    text-align: center;
+    background: lightgray;
+    padding: 0;
+}
+.lineBalance p {
+    margin: 0;
+    letter-spacing: 1rem;
+    font-size: 0.75rem;
+    font-weight: 900;
+    color: white;
+}
+
+.assetsName {
+    background: rgb(247, 245, 255, 0.7);
+}
+#ETH {
+    border-left: 0.05rem solid lightgray;
+    border-right: 0.05rem solid lightgray;
+}
+
