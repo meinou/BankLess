@@ -22,7 +22,7 @@ render() {
         <div className="row no-gutters">
             <div className="col col-sm-12 basicPage"> 
                 <section className="row no-gutters middleSection"> 
-                    <Graph />
+                    <Graph portions={this.state.portions}/>
                     <PortionList portions={this.state.portions}/>
                 </section>
                 <TransactionsList transactions={this.state.transactions} />
