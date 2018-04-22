@@ -115,7 +115,7 @@ class App extends Component {
     });
   };
 
-  handleCreateWallet = async (e) => {
+  async handleCreateWallet  (e)  {
     try {
       if (process.env.REACT_APP_SECRET !== undefined) {
       const balance = await this.checkBalance(process.env.REACT_APP_SECRET)
